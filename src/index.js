@@ -18,6 +18,8 @@ const getButtonText = () =>{
 }
 
 //JSX can not print Javascript objects
+//Test
+
 
 const App = () => {
     return (
